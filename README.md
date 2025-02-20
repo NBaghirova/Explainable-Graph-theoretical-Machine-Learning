@@ -1,2 +1,2 @@
 # Metabolic_Graphs_AD_Predictions
-Python repository for constructing metabolic similarity graphs from FDG-PET scans and predicting cognitive scores related to Alzheimer’s Disease using machine learning.
+A Python repository for constructing metabolic distance graphs from FDG-PET scans, predicting eight multivariate cognitive scores related to Alzheimer’s disease, and identifying the top ten most predictive edges for each cognitive score.
