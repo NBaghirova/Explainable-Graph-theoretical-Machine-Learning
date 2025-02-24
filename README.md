@@ -1,2 +1,2 @@
-# Metabolic_Graphs_AD_Predictions
-A Python repository for constructing metabolic distance graphs from FDG-PET scans, predicting eight multivariate cognitive scores related to Alzheimer’s disease, and identifying the top ten most predictive edges for each cognitive score.
+# Explainable Graph-theoretical Machine Learning
+A Python repository for constructing metabolic distance graphs from FDG-PET scans and using graph edge weights as input features for prediction with a KernelSVR model. This approach predicts eight multivariate cognitive scores related to Alzheimer’s disease and identifies the top ten most predictive edges for each score, improving model interpretability.
